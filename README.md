@@ -1,5 +1,9 @@
 ## Hi there 👋
-
+## 👨‍💻 About Me
+- 🏠 I’m currently living at Nanjing, China 🇨🇳.
+## 🌐 Languages I Speak
+- ![English](https://img.shields.io/badge/English-000000?style=flat&logo=language&logoColor=FFFFFF) 
+- ![Spanish](https://img.shields.io/badge/Spanish-000000?style=flat&logo=language&logoColor=FFFFFF)
 <!--
 **carmencitaqiu/carmencitaqiu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
