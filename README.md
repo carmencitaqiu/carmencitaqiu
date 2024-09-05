@@ -1,20 +1,17 @@
 ## Hi there 👋
-## 👨‍💻 About Me
-- 🏠 I’m currently living at Nanjing, China 🇨🇳.
-- 🌐 Languages I Speak
-- 🇺🇸 [English] 
-- 🇪🇸 ![Spanish]
-<!--
-**carmencitaqiu/carmencitaqiu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- 🏠 I’m a frontend developer who currently live at Nanjing, China 🇨🇳.
+- 🧑‍🤝‍🧑 I like making friends from all around the world.
+- 🌐 I can speak 3 languages:
+    - 🇨🇳 Chinese
+    - 🇺🇸 English
+    - 🇪🇸 Spanish
+- 🌍 I can coordinate working across different timezones.
+- 🔭 I’m currently working on React.js,Next.js,TypeScript,TailwindCSS etc.
+- ⚡ Available for freelance projects.
+- 🙏 I'm Buddhist.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## 📫 How to reach me:
+[<img align="left" alt="carmenqiu1990@gmail.com | Gmail" width="28px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/gmail.svg" />][gmail]
+
