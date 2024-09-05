@@ -9,9 +9,13 @@
 - 🌍 I can coordinate working across different timezones.
 - 🔭 I’m currently working on React.js,Next.js,TypeScript,TailwindCSS etc.
 - ⚡ Available for freelance projects.
-- 🙏 I'm Buddhist.
+- 🙏 I'm a Buddhist.
 
 
 ## 📫 How to reach me:
 [<img align="left" alt="carmenqiu1990@gmail.com | Gmail" width="28px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/gmail.svg" />][gmail]
+
+
+
+[gmail]: carmenqiu1990@gmail.com
 
