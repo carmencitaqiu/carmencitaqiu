@@ -20,7 +20,11 @@
 
 ### Languages and Tools:
 
-<code><img height="35" title="Javascript" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/javascript.svg"></code>
+<code><img height="35" title="JavaScript" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/javascript.svg"></code>
+<code><img height="35" title="TypeScript" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/typescript.svg"></code> 
+<code><img height="35" title="Vue.js" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/react.svg"></code>
+<code><img height="35" title="TypeScript" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/vue.svg"></code>
+<code><img height="35" title="Angular" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/angular.svg"></code>  
 
 [gmail]: mailto:carmenqiu1990@gmail.com
 
