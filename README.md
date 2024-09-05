@@ -16,6 +16,11 @@
 [<img align="left" alt="carmenqiu1990@gmail.com | Gmail" width="28px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/gmail.svg" />][gmail]
 
 
+<br/>
 
-[gmail]: carmenqiu1990@gmail.com
+### Languages and Tools:
+
+<code><img height="35" title="Javascript" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/javascript.svg"></code>
+
+[gmail]: mailto:carmenqiu1990@gmail.com
 
