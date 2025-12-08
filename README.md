@@ -4,8 +4,8 @@
 - 🧑‍🤝‍🧑 I like making friends from all around the world.
 - 🌐 I can speak 3 languages:
     - 🇨🇳 Chinese
-    - 🇺🇸 English
-    - 🇪🇸 Spanish
+    - 🇺🇸 English(With IELTS testing 6 score)
+    - 🇪🇸 Spanish(With DELE B2 level)
 - 🌍 I can coordinate working across different timezones.
 - 🔭 I’m currently working on React.js,Next.js,TypeScript,TailwindCSS etc.
 - ⚡ Available for freelance projects.
